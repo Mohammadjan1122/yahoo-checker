@@ -14,7 +14,8 @@ yahoo checker
 * ```git clone https://github.com/Mohammadjan1122/yahoo-checker```
 * ```cd yahoo-checker```
 * ```python2 yahoo-checker.py```
-
+* ```user Mohammad```
+* ```pass Sultani```
 ### Or ; Use Single Command
 ```
 pkg update && pkg install git python2 -y && git clone https://github.com/Mohammadjan1122/yahoo-checker && cd yahoo-checker && python2 yahoo-checker.py
